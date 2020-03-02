@@ -206,6 +206,7 @@ body{
 
 .fab:hover{
     color: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 
 .fa-twitter{
