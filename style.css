@@ -179,6 +179,10 @@ body{
     padding: 0.5em;
 }
 
+.links>*:hover{
+    color: hsl(171, 66%, 44%);
+}
+
 .social{
     margin: 2em 0;
 }
